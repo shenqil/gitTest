@@ -1,4 +1,5 @@
-# 在git上创建项目
+# 在 git 上创建项目
+
 ```
 git init
 git add .
@@ -9,6 +10,7 @@ git push -u origin main
 ```
 
 # 提交项目
+
 ```
 git push
 ```
